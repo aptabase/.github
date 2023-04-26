@@ -1,8 +1,16 @@
-<div align="center">
-	<img src="https://aptabase.com/og.png" alt="Aptabase"/>
-	<br>
-    <h1>Aptabase</h1>
-	<p>Open Source, Privacy-First and Simple Analytics for Apps<p>
-	<br>
-	<br>
-</div>
+<p align="center">
+  <a href="https://github.com/aptabase/aptabase">
+    <img src="https://aptabase.com/og.png" alt="Aptabase"/>
+  </a>
+
+  <h3 align="center">Aptabase</h3>
+
+  <p align="center">
+    Analytics for Apps.
+    <br />
+    Open Source. Privacy-First. Simple.
+    <br />
+    <br />
+    <a href="https://aptabase.com"><strong>Learn more »</strong></a>
+  </p>
+</p>
