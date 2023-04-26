@@ -11,6 +11,8 @@
     Open Source. Privacy-First. Simple.
     <br />
     <br />
-    <a href="https://aptabase.com"><strong>Learn more »</strong></a>
+    <a href="https://aptabase.com"><strong>Learn More</strong></a>
+    •
+    <a href="https://discord.gg/d9d97unCUk"><strong>Discord</strong></a>
   </p>
 </div>
