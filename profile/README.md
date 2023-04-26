@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/aptabase/aptabase">
     <img src="https://aptabase.com/og.png" alt="Aptabase"/>
   </a>
@@ -13,4 +13,4 @@
     <br />
     <a href="https://aptabase.com"><strong>Learn more »</strong></a>
   </p>
-</p>
+</div>
